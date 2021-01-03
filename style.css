@@ -1,0 +1,67 @@
+.my_nav_bar{
+    position:fixed;
+    top:0;
+    z-index:99999
+}
+img{
+    height=100%;
+    width=100%;
+}
+
+#campus{
+    font-size:20px;
+font-family:cursive;
+    text-align: center;
+    background-color: black;
+   
+    
+}
+
+.achive{
+    font-size:20px;
+    font-family: monospace;
+}
+
+.if{
+    margin-bottom:40px;
+}
+
+.heading{
+    color:azure;
+}
+.head{
+    margin-top:50;
+}
+#AchivementsID{
+    padding-bottom: 10px;
+}
+.movie_head{
+  font-size: 20px;
+  padding:6px 22px;
+    border-radius:10px;
+    margin-bottom:15px;
+    width:100%;
+    display:inline-block;    
+}
+.movie_head i{
+   float:right; 
+}
+.movie_text span
+{
+    color:#ff7700
+}
+.haading{
+margin-left:20px;
+    font-size:22;
+}
+.yala{
+    font-size:22;
+}
+.cont{
+    margin-top:1500px;
+    margin-bottom:50
+    }
+.asto{
+    font-size:30;
+    margin-left:60
+}
